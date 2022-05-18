@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Nautilus';
+  font-weight: 400;
+  src: url('../fonts/Nautilus.woff2') format('woff2'),
+    url('../fonts/Nautilus.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Hand';
+  font-weight: 400;
+  src: url('../fonts/Hand.woff2') format('woff2'),
+    url('../fonts/Hand.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+  font-display: swap;
+}
